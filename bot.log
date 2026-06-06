@@ -1,0 +1,203 @@
+2026-06-06 11:14:55,607 [INFO] ============================================================
+2026-06-06 11:14:55,607 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:14:55,607 [INFO] ============================================================
+2026-06-06 11:17:13,480 [INFO] ============================================================
+2026-06-06 11:17:13,480 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:17:13,480 [INFO] ============================================================
+2026-06-06 11:17:13,699 [INFO] 
+2026-06-06 11:17:13,699 [INFO]   Bot running. Stocks rebalance every 30d, Crypto every 7d.
+2026-06-06 11:17:13,699 [INFO]   Press Ctrl+C to stop.
+2026-06-06 11:17:13,699 [INFO] 
+2026-06-06 11:17:13,717 [INFO] 
+2026-06-06 11:17:17,049 [INFO]   Cash hurdle (T-bill proxy): 3.91%
+2026-06-06 11:17:17,525 [INFO]   SPY     12m momentum: +25.8%
+2026-06-06 11:17:17,962 [INFO]   QQQ     12m momentum: +35.0%
+2026-06-06 11:17:18,416 [INFO]   IWM     12m momentum: +36.5%
+2026-06-06 11:17:18,913 [INFO]   XLK     12m momentum: +53.6%
+2026-06-06 11:17:19,371 [INFO]   XLY     12m momentum: +10.5%
+2026-06-06 11:17:19,821 [INFO]   XLF     12m momentum: +4.9%
+2026-06-06 11:17:20,260 [INFO]   EFA     12m momentum: +18.4%
+2026-06-06 11:17:20,697 [INFO]   EEM     12m momentum: +41.4%
+2026-06-06 11:17:21,159 [INFO]   NVDA    12m momentum: +46.7%
+2026-06-06 11:17:21,552 [INFO]   META    12m momentum: -13.1%
+2026-06-06 11:17:22,073 [INFO]   MSFT    12m momentum: -10.2%
+2026-06-06 11:17:22,470 [INFO]   AMZN    12m momentum: +18.3%
+2026-06-06 11:17:22,470 [INFO]   Top 4 selected: ['XLK', 'NVDA', 'EEM', 'IWM']
+2026-06-06 11:17:23,436 [INFO]   Stock rebalance complete.
+2026-06-06 11:17:23,436 [INFO] 
+2026-06-06 11:17:23,807 [INFO]   BTC/USD     90d momentum: -11.3%
+2026-06-06 11:17:24,288 [INFO]   ETH/USD     90d momentum: -22.0%
+2026-06-06 11:17:24,666 [INFO]   SOL/USD     90d momentum: -27.3%
+2026-06-06 11:17:25,051 [INFO]   AVAX/USD    90d momentum: -28.1%
+2026-06-06 11:17:25,442 [INFO]   LINK/USD    90d momentum: -17.3%
+2026-06-06 11:17:25,442 [INFO]   Top 3 crypto selected: ['BTC/USD', 'LINK/USD']
+2026-06-06 11:17:26,670 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BTCUSD"}}}
+2026-06-06 11:17:27,631 [ERROR] $BTCUSD: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-06 11:17:27,632 [WARNING] Could not get price for BTCUSD, skipping buy
+2026-06-06 11:17:28,836 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: LINKUSD"}}}
+2026-06-06 11:17:29,816 [ERROR] $LINKUSD: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-06 11:17:29,816 [WARNING] Could not get price for LINKUSD, skipping buy
+2026-06-06 11:17:29,817 [INFO]   Crypto rebalance complete.
+2026-06-06 11:17:29,829 [INFO]   Sleeping 24h until next check...
+2026-06-06 11:29:05,640 [INFO] ============================================================
+2026-06-06 11:29:05,640 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:29:05,640 [INFO] ============================================================
+2026-06-06 11:29:05,870 [INFO]   Equity      : $100000.00
+2026-06-06 11:29:05,870 [INFO]   Buying Power: $335000.00
+2026-06-06 11:29:05,870 [INFO]   Cash        : $100000.00
+2026-06-06 11:29:05,870 [INFO] 
+2026-06-06 11:29:05,871 [INFO]   Bot running. Stocks rebalance every 30d, Crypto every 7d.
+2026-06-06 11:29:05,871 [INFO]   Press Ctrl+C to stop.
+2026-06-06 11:29:05,871 [INFO] 
+2026-06-06 11:29:05,871 [INFO] ── Daily Check @ 2026-06-06 11:29 ─────────────────────────────────
+2026-06-06 11:29:05,882 [INFO] 
+2026-06-06 11:29:05,882 [INFO] ── STOCK REBALANCE ─────────────────────────────────────────
+2026-06-06 11:29:07,142 [INFO]   Cash hurdle (T-bill proxy): 3.91%
+2026-06-06 11:29:07,379 [INFO]   SPY     12m momentum: +25.8%
+2026-06-06 11:29:07,598 [INFO]   QQQ     12m momentum: +35.0%
+2026-06-06 11:29:07,823 [INFO]   IWM     12m momentum: +36.5%
+2026-06-06 11:29:08,048 [INFO]   XLK     12m momentum: +53.6%
+2026-06-06 11:29:08,285 [INFO]   XLY     12m momentum: +10.5%
+2026-06-06 11:29:08,507 [INFO]   XLF     12m momentum: +4.9%
+2026-06-06 11:29:08,725 [INFO]   EFA     12m momentum: +18.4%
+2026-06-06 11:29:08,942 [INFO]   EEM     12m momentum: +41.4%
+2026-06-06 11:29:09,153 [INFO]   NVDA    12m momentum: +46.7%
+2026-06-06 11:29:09,345 [INFO]   META    12m momentum: -13.1%
+2026-06-06 11:29:09,345 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:29:09,576 [INFO]   MSFT    12m momentum: -10.2%
+2026-06-06 11:29:09,576 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:29:09,767 [INFO]   AMZN    12m momentum: +18.3%
+2026-06-06 11:29:09,768 [INFO]   Top 4 selected: ['XLK', 'NVDA', 'EEM', 'IWM']
+2026-06-06 11:29:10,037 [INFO]   [BUY]  XLK       $16250  (~90.1276 units @ $180.30)
+2026-06-06 11:29:10,265 [INFO]   [BUY]  NVDA      $16250  (~79.2296 units @ $205.10)
+2026-06-06 11:29:10,497 [INFO]   [BUY]  EEM       $16250  (~251.5869 units @ $64.59)
+2026-06-06 11:29:10,736 [INFO]   [BUY]  IWM       $16250  (~57.6957 units @ $281.65)
+2026-06-06 11:29:10,736 [ERROR] Main loop error: [Errno 13] Permission denied: 'trade_journal.csv'
+2026-06-06 11:29:10,737 [INFO]   Sleeping 24h until next check...
+2026-06-06 11:29:49,077 [INFO] ============================================================
+2026-06-06 11:29:49,077 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:29:49,077 [INFO] ============================================================
+2026-06-06 11:29:49,267 [INFO]   Equity      : $100000.00
+2026-06-06 11:29:49,268 [INFO]   Buying Power: $270000.00
+2026-06-06 11:29:49,268 [INFO]   Cash        : $100000.00
+2026-06-06 11:29:49,268 [INFO] 
+2026-06-06 11:29:49,268 [INFO]   Bot running. Stocks rebalance every 30d, Crypto every 7d.
+2026-06-06 11:29:49,268 [INFO]   Press Ctrl+C to stop.
+2026-06-06 11:29:49,268 [INFO] 
+2026-06-06 11:29:49,269 [INFO] ── Daily Check @ 2026-06-06 11:29 ─────────────────────────────────
+2026-06-06 11:29:49,281 [INFO] 
+2026-06-06 11:29:49,281 [INFO] ── STOCK REBALANCE ─────────────────────────────────────────
+2026-06-06 11:29:50,490 [INFO]   Cash hurdle (T-bill proxy): 3.91%
+2026-06-06 11:29:50,750 [INFO]   SPY     12m momentum: +25.8%
+2026-06-06 11:29:50,981 [INFO]   QQQ     12m momentum: +35.0%
+2026-06-06 11:29:51,310 [INFO]   IWM     12m momentum: +36.5%
+2026-06-06 11:29:51,542 [INFO]   XLK     12m momentum: +53.6%
+2026-06-06 11:29:51,777 [INFO]   XLY     12m momentum: +10.5%
+2026-06-06 11:29:52,008 [INFO]   XLF     12m momentum: +4.9%
+2026-06-06 11:29:52,229 [INFO]   EFA     12m momentum: +18.4%
+2026-06-06 11:29:52,449 [INFO]   EEM     12m momentum: +41.4%
+2026-06-06 11:29:52,655 [INFO]   NVDA    12m momentum: +46.7%
+2026-06-06 11:29:52,852 [INFO]   META    12m momentum: -13.1%
+2026-06-06 11:29:52,852 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:29:53,070 [INFO]   MSFT    12m momentum: -10.2%
+2026-06-06 11:29:53,070 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:29:53,261 [INFO]   AMZN    12m momentum: +18.3%
+2026-06-06 11:29:53,261 [INFO]   Top 4 selected: ['XLK', 'NVDA', 'EEM', 'IWM']
+2026-06-06 11:29:53,517 [INFO]   [BUY]  XLK       $16250  (~90.1276 units @ $180.30)
+2026-06-06 11:29:53,742 [INFO]   [BUY]  NVDA      $16250  (~79.2296 units @ $205.10)
+2026-06-06 11:29:53,988 [INFO]   [BUY]  EEM       $16250  (~251.5869 units @ $64.59)
+2026-06-06 11:29:54,242 [INFO]   [BUY]  IWM       $16250  (~57.6957 units @ $281.65)
+2026-06-06 11:29:54,243 [INFO]   Stock rebalance complete.
+2026-06-06 11:29:54,243 [INFO] 
+2026-06-06 11:29:54,243 [INFO] ── CRYPTO REBALANCE ────────────────────────────────────────
+2026-06-06 11:29:54,431 [INFO]   BTC/USD     90d momentum: -11.4%
+2026-06-06 11:29:54,626 [INFO]   ETH/USD     90d momentum: -22.0%
+2026-06-06 11:29:54,626 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:29:54,815 [INFO]   SOL/USD     90d momentum: -27.5%
+2026-06-06 11:29:54,815 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:29:55,041 [INFO]   AVAX/USD    90d momentum: -28.0%
+2026-06-06 11:29:55,042 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:29:55,234 [INFO]   LINK/USD    90d momentum: -17.1%
+2026-06-06 11:29:55,234 [INFO]   Top 3 crypto selected: ['BTC/USD', 'LINK/USD']
+2026-06-06 11:29:55,480 [ERROR]   Buy error for BTCUSD: {"available":"2500","balance":"100000","code":40310000,"message":"insufficient balance for USD (requested: 14290.44, available: 2500)","symbol":"USD"}
+2026-06-06 11:29:55,681 [ERROR]   Buy error for LINKUSD: {"available":"2500","balance":"100000","code":40310000,"message":"insufficient balance for USD (requested: 21432.66, available: 2500)","symbol":"USD"}
+2026-06-06 11:29:55,681 [INFO]   Crypto rebalance complete.
+2026-06-06 11:29:55,691 [INFO]   Equity      : $100000.00
+2026-06-06 11:29:55,691 [INFO]   Buying Power: $205000.00
+2026-06-06 11:29:55,691 [INFO]   Cash        : $100000.00
+2026-06-06 11:29:55,691 [INFO]   Sleeping 24h until next check...
+2026-06-06 11:34:03,270 [INFO]   Loaded state: last stock rebalance was 2026-06-06
+2026-06-06 11:34:03,270 [INFO]   Loaded state: last crypto rebalance was 2026-06-06
+2026-06-06 11:34:03,271 [INFO] ============================================================
+2026-06-06 11:34:03,271 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:34:03,271 [INFO] ============================================================
+2026-06-06 11:34:03,498 [INFO]   Equity      : $100000.00
+2026-06-06 11:34:03,499 [INFO]   Buying Power: $400000.00
+2026-06-06 11:34:03,499 [INFO]   Cash        : $100000.00
+2026-06-06 11:34:03,499 [INFO] 
+2026-06-06 11:34:03,499 [INFO]   Bot running. Stocks rebalance every 30d, Crypto every 7d.
+2026-06-06 11:34:03,499 [INFO]   Press Ctrl+C to stop.
+2026-06-06 11:34:03,499 [INFO] 
+2026-06-06 11:34:03,500 [INFO] ── Daily Check @ 2026-06-06 11:34 ─────────────────────────────────
+2026-06-06 11:34:03,509 [INFO]   Peak equity: $100000.00 | Current: $100000.00 | Drawdown: 0.0%
+2026-06-06 11:34:03,509 [INFO]   Stock rebalance in 30 day(s).
+2026-06-06 11:34:03,509 [INFO]   Crypto rebalance in 7 day(s).
+2026-06-06 11:34:03,518 [INFO]   Equity      : $100000.00
+2026-06-06 11:34:03,518 [INFO]   Buying Power: $400000.00
+2026-06-06 11:34:03,518 [INFO]   Cash        : $100000.00
+2026-06-06 11:34:03,519 [INFO]   Sleeping 24h until next check...
+2026-06-06 11:36:23,928 [INFO]   Loaded state: last stock rebalance was 2026-05-01
+2026-06-06 11:36:23,928 [INFO]   Loaded state: last crypto rebalance was 2026-05-01
+2026-06-06 11:36:23,928 [INFO] ============================================================
+2026-06-06 11:36:23,929 [INFO]   Dual Momentum Bot  |  Paper=True
+2026-06-06 11:36:23,929 [INFO] ============================================================
+2026-06-06 11:36:24,124 [INFO]   Equity      : $100000.00
+2026-06-06 11:36:24,124 [INFO]   Buying Power: $400000.00
+2026-06-06 11:36:24,125 [INFO]   Cash        : $100000.00
+2026-06-06 11:36:24,125 [INFO] 
+2026-06-06 11:36:24,125 [INFO]   Bot running. Stocks rebalance every 30d, Crypto every 7d.
+2026-06-06 11:36:24,125 [INFO]   Press Ctrl+C to stop.
+2026-06-06 11:36:24,125 [INFO] 
+2026-06-06 11:36:24,125 [INFO] ── Daily Check @ 2026-06-06 11:36 ─────────────────────────────────
+2026-06-06 11:36:24,135 [INFO]   Peak equity: $100000.00 | Current: $100000.00 | Drawdown: 0.0%
+2026-06-06 11:36:24,136 [INFO] 
+2026-06-06 11:36:24,136 [INFO] ── STOCK REBALANCE ─────────────────────────────────────────
+2026-06-06 11:36:25,407 [INFO]   Cash hurdle (T-bill proxy): 3.91%
+2026-06-06 11:36:25,635 [INFO]   SPY     12m momentum: +25.8%
+2026-06-06 11:36:25,848 [INFO]   QQQ     12m momentum: +35.0%
+2026-06-06 11:36:26,070 [INFO]   IWM     12m momentum: +36.5%
+2026-06-06 11:36:26,304 [INFO]   XLK     12m momentum: +53.6%
+2026-06-06 11:36:26,532 [INFO]   XLY     12m momentum: +10.5%
+2026-06-06 11:36:26,759 [INFO]   XLF     12m momentum: +4.9%
+2026-06-06 11:36:26,988 [INFO]   EFA     12m momentum: +18.4%
+2026-06-06 11:36:27,204 [INFO]   EEM     12m momentum: +41.4%
+2026-06-06 11:36:27,415 [INFO]   NVDA    12m momentum: +46.7%
+2026-06-06 11:36:27,614 [INFO]   META    12m momentum: -13.1%
+2026-06-06 11:36:27,614 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:36:27,841 [INFO]   MSFT    12m momentum: -10.2%
+2026-06-06 11:36:27,841 [INFO]          → fails absolute filter (below cash rate), skipped
+2026-06-06 11:36:28,063 [INFO]   AMZN    12m momentum: +18.3%
+2026-06-06 11:36:28,063 [INFO]   Top 4 selected: ['XLK', 'NVDA', 'EEM', 'IWM']
+2026-06-06 11:36:28,340 [INFO]   [BUY]  XLK       $16250  (~90.1276 units @ $180.30)
+2026-06-06 11:36:28,568 [INFO]   [BUY]  NVDA      $16250  (~79.2296 units @ $205.10)
+2026-06-06 11:36:28,800 [INFO]   [BUY]  EEM       $16250  (~251.5869 units @ $64.59)
+2026-06-06 11:36:29,053 [INFO]   [BUY]  IWM       $16250  (~57.6957 units @ $281.65)
+2026-06-06 11:36:29,054 [INFO]   Stock rebalance complete.
+2026-06-06 11:36:29,054 [INFO] 
+2026-06-06 11:36:29,054 [INFO] ── CRYPTO REBALANCE ────────────────────────────────────────
+2026-06-06 11:36:29,244 [INFO]   BTC/USD     90d momentum: -11.2%
+2026-06-06 11:36:29,436 [INFO]   ETH/USD     90d momentum: -21.8%
+2026-06-06 11:36:29,436 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:36:29,646 [INFO]   SOL/USD     90d momentum: -27.2%
+2026-06-06 11:36:29,646 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:36:29,835 [INFO]   AVAX/USD    90d momentum: -27.8%
+2026-06-06 11:36:29,835 [INFO]          → deeply negative, skipped this cycle
+2026-06-06 11:36:30,025 [INFO]   LINK/USD    90d momentum: -16.9%
+2026-06-06 11:36:30,025 [INFO]   Top 3 crypto selected: ['BTC/USD', 'LINK/USD']
+2026-06-06 11:36:30,261 [INFO]   [BUY]  BTCUSD    $14000  (~0.2306 units @ $60711.62)
+2026-06-06 11:36:30,462 [INFO]   [BUY]  LINKUSD   $21000  (~2851.3239 units @ $7.36)
+2026-06-06 11:36:30,463 [INFO]   Crypto rebalance complete.
+2026-06-06 11:36:30,472 [INFO]   Equity      : $100000.00
+2026-06-06 11:36:30,472 [INFO]   Buying Power: $192067.04
+2026-06-06 11:36:30,472 [INFO]   Cash        : $64266.76
+2026-06-06 11:36:30,472 [INFO]   Sleeping 24h until next check...
